@@ -1,0 +1,7 @@
+\documentclass[12pt]{memoir}
+\begin{document}
+Hello World! % your content goes here...
+Hello World!
+Hello World!
+Hello World!
+\end{document}
